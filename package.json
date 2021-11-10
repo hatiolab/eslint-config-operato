@@ -1,5 +1,5 @@
 {
-  "name": "@oerato/eslint-config-operato",
+  "name": "@operato/eslint-config-operato",
   "version": "1.0.0",
   "main": "index.js",
   "peerDependencies": {
