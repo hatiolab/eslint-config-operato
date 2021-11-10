@@ -39,6 +39,7 @@ module.exports = {
     'lit-a11y/click-events-have-key-events': 'off',
     'lit-a11y/anchor-is-valid': 'off',
     'lit-a11y/img-redundant-alt': 'off',
+    'lit-a11y/no-autofocus': 'off',
     'lit/no-template-bind': 'off',
     'lines-between-class-members': 'off',
     'no-extra-bind': 'off',
